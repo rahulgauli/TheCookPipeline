@@ -23,7 +23,8 @@ This is a Cyber Security Bot for resiliency and enhanced CICD pipelines. In Its 
     - For a Particular Date And Time: {Deployed Version Logs: [ Prod Deployed Version Log Files ], Errors: [Error Scanner Bot( Prod-Mezmo-deployment ) ], 200s: Success Scanner Bot[ Non Prod Success Rate for all APIs ] }
     - Calculations:
         - Non-Prod Version Result:
-        
+        <img width="999" alt="Screenshot 2024-08-19 at 10 43 50 PM" src="https://github.com/user-attachments/assets/8973e92e-5bef-439e-9299-6265f4528e13">
+
         ```yaml
         Reusable_Workflow_BluePrint: 
         
