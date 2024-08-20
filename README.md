@@ -1,4 +1,4 @@
-# Why Should you be Afraid?
+# Why Should you be Afraid? Cloud Architecture Resiliency
 
 **Let's Achieve 99% Resiliency:** 😀, **I call This the CookPipeline**
 
