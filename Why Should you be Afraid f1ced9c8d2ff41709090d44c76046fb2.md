@@ -2,9 +2,9 @@
 
 **Let's Achieve 99% Resiliency:** 😀, **I call This the CookPipeline**
 
-I call this the CI/ CS / CD Pipeline
+The CI/ CR / CD Pipeline
 
-Continuous Integration/ Continous Security / Continous Development 
+Continuous Integration/ Continous Resiliency / Continous Development 
 
 n = {0,1,2,3,4,5,6,7,8,9}
 
